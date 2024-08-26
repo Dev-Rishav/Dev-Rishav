@@ -44,7 +44,6 @@ I'm a passionate Web Developer. I love building web applications, diving deep in
 
 <div align="center">
   <a href="https://github.com/Dev-Rishav">
-    <img height="580em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Rishav&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Rishav&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dev-Rishav's GitHub Stats" />
   </a>
 </div>
