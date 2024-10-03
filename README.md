@@ -6,6 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/Dev-Rishav)
 [![Twitter: RishavCoder](https://img.shields.io/twitter/follow/Rishav?style=social)](https://www.instagram.com/yaaarki/)
 [![Linkedin: Rishav](https://img.shields.io/badge/-Rishav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishav-chakraborty-56a76612a//)](https://www.linkedin.com/in/rishav-chakraborty-56a76612a//)
+![Profile views](https://komarev.com/ghpvc/?username=Dev-Rishav&color=blue)
 
 </div>
 
@@ -37,6 +38,12 @@ I'm a passionate Web Developer. I love building web applications, diving deep in
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/-Problem_Solving-FFA116?style=flat-square&logo=leetcode&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 </div>
 
