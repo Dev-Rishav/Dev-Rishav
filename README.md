@@ -47,13 +47,20 @@ I'm a passionate Web Developer. I love building web applications, diving deep in
 
 </div>
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats 
 
-<div align="center">
-  <a href="https://github.com/Dev-Rishav">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Rishav&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dev-Rishav's GitHub Stats" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Dev-Rishav&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Rishav&layout=compact&theme=radical&hide=html,css,makefile,python&langs_count=8&count_private=true" />
+    </td>
+  </tr>
+</table>
+
+
 
 ## 📫 Get in Touch
 
